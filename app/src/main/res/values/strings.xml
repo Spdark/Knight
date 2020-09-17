@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Knight</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="conckrak_banan_feat">Conckrak Banan (Feat...)</string>
+    <string name="description_description_description_description_description_description_description_description_description_description">description description description description description description description description description description</string>
+    <string name="user1234567">\@user1234567</string>
+    <string name="User1234567">\@User1234567</string>
+</resources>
